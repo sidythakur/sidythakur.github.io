@@ -5,7 +5,7 @@ const HOSTED_URLS = {
   metadata:
       'model_js/metadata.json'
 };
-
+debugger;
 const examples = {
   'example1':
       'Alice was beginning to get very tired of sitting by her sister on the bank.',
